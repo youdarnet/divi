@@ -1,4 +1,4 @@
 divi
 ====
 
-Divi Child Theme
+Youdar Divi Child Theme
